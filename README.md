@@ -1,3 +1,3 @@
 ### About the Project
-**Important note**
+**Important note** \n 
 This is test version of the project
