@@ -26,7 +26,7 @@ Unacceptable **behavior includes**:
 
 Violations of this Code of Conduct may be reported to the maintainer via:
 
-📫 **indexcry@pm.me**
+📫 **@indecry - Telegram**
 
 All reports will be handled confidentially. Maintainers have the right to remove or reject comments, commits, code, wiki edits, and other contributions that are not aligned with this Code.
 
